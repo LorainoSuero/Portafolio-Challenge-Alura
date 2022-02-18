@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700&display=swap');
+* {
+    font-family: Raleway;
+}
+
+header {
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 32px 0px;
+
+position: static;
+width: 1136px;
+height: 88px;
+left: 152px;
+top: 0px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 32px 0px;
+}
+
+.logocaja {
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 134px;
+height: 24px;
+left: 0px;
+top: 32px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 611px;
+}
+
+.nombre {
+position: static;
+width: 102px;
+height: 19px;
+left: 32px;
+top: 2.5px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+
+color: #464646;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 8px;
+}
+
+.nav ul {
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: static;
+width: 653px;
+height: 19px;
+left: 483px;
+top: 34.5px;
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 611px;
+}
+
+ul .list1{
+/* Skills */
+
+
+position: static;
+width: 40px;
+height: 19px;
+left: 99px;
+top: 0px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+/* Preto/100% */
+
+color: #464646;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 32px;
+}
